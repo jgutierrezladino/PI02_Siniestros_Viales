@@ -112,11 +112,11 @@ Se ha realizado un análisis visual utilizando un gráfico de barras para repres
 
 **Cantidad de Hechos según el Tipo de Víctima:**
 Un gráfico de barras indica que las categorías más afectadas son 'MOTO' y 'PEATON', concentrando la mayoría de los incidentes.
-<p align="center"><img src="./imagenes/grafico tipo de victima.png"></p>
+<p align="center"><img src="./Imagenes/grafico tipo de victima.png"></p>
 
 **Cantidad de Hechos por año:**
 Un gráfico de barras indica que los añor con mas tasa de accidentalidad es 2016 y 2018.
-<p align="center"><img src="./imagenes/grafico años.png"></p>
+<p align="center"><img src="./Imagenes/grafico años.png"></p>
 
 
 ### **Estudio**
